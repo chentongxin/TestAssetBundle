@@ -1,0 +1,5 @@
+WindowsStandalone
+SceneListBegin?
+Assets/Art/Scenes/SceneOne/SceneOne.unity
+SceneListEnd?
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MsgCenter
